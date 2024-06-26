@@ -1,0 +1,8 @@
+numpy
+deep-sort-realtime
+opencv-python
+ultralytics
+vidgear
+streamlit
+yt_dlp
+altair<5
